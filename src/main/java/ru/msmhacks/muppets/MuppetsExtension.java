@@ -1,5 +1,5 @@
 package ru.msmhacks.muppets;
-
+ 
 import com.smartfoxserver.v2.core.ISFSEvent;
 import com.smartfoxserver.v2.core.ISFSEventListener;
 import com.smartfoxserver.v2.core.SFSEventParam;
